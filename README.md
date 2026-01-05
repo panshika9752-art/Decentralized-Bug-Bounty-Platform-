@@ -20,7 +20,7 @@ We envision a future where every smart contract project can easily establish bug
 
 ## Key Features
 
-### 🔒 **Trustless Escrow System**
+### **Trustless Escrow System**
 - Bounty rewards are locked in smart contracts upon creation
 - Automatic payment distribution upon approval
 - No risk of non-payment for valid bug discoveries
@@ -73,19 +73,19 @@ We envision a future where every smart contract project can easily establish bug
 
 ## Future Scope
 
-### Phase 1: Enhanced Features (Q2 2024)
+### Phase 1: Enhanced Features (2024)
 - **Multi-signature Approval**: Team-based bounty review process
 - **Partial Payments**: Milestone-based reward distribution
 - **Category System**: Specialized bounty types (Frontend, Backend, Smart Contract)
 - **Advanced Filters**: Search and filter bounties by various criteria
 
-### Phase 2: Advanced Functionality (Q3 2024)
+### Phase 2: Advanced Functionality (2024)
 - **Dispute Resolution**: Decentralized arbitration system for contested submissions
 - **Staking Mechanism**: Hunter stake system to prevent spam submissions
 - **Team Bounties**: Collaborative bug hunting for complex issues
 - **Integration APIs**: Easy integration with existing development workflows
 
-### Phase 3: Ecosystem Expansion (Q4 2024)
+### Phase 3: Ecosystem Expansion (2024)
 - **Cross-chain Support**: Multi-blockchain bounty programs
 - **NFT Certificates**: Non-fungible achievement tokens for major discoveries
 - **DAO Governance**: Community-driven platform governance
